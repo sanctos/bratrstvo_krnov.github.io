@@ -1,0 +1,1 @@
+# bratrstvo_krnov.github.io
