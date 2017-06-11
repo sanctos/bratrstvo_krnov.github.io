@@ -1,0 +1,183 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-size:100%;
+}
+.stranka
+{
+	background-color:#170e09;
+	background-image: url(../img/pozadia.jpg) ;
+	background-repeat:no-repeat;
+	background-position:center;
+	height:10px;
+
+
+}
+.container
+{
+ width: 1300px;
+margin:0px auto;
+
+
+
+}
+header
+{
+	margin: 30px auto;
+	height:80px;
+	background-image: url(../img/header.jpg);
+	border:solid 3px white;
+	width:1200px;
+
+}
+.logo
+{
+line-height: 80px;
+float:left;
+margin:0px 10px;
+font-size:40px;
+color:#780f06;
+text-transform:uppercase;
+}
+.krnov
+{
+	font-size:20px;
+	color:white;
+}
+
+nav
+{
+
+float:right;
+margin-right:15px;
+
+line-height: 80px;
+
+}
+.menu li
+{
+	display:inline-block;
+}
+.menu li a
+{
+	text-decoration:none;
+	color:white;
+	margin:3px;
+	font-family:sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+.menu li a:hover
+{
+	color:#780f06;
+}
+.sekciajeden , .sekciadva
+{
+	border:solid 3px white;
+	width:1200px;
+	margin:0px auto;
+	background-image: url(../img/header.jpg);
+
+	}
+h2
+{
+	text-align:left;
+
+	border-bottom:solid 3px white;
+	height:40px;
+	line-height: 40px;
+	font-size:25px;
+	color:white;
+}
+.forum p
+{
+	margin-left:10px;
+}
+
+
+
+.sekciajeden article
+{
+	color:white;
+	font-size:25px;
+	margin:10px;
+}
+.bratrstvo_pravidla
+{	margin:0px;
+	font-size:14px;
+	margin-left:6px;
+
+
+	
+	
+
+}
+.nadpis_krnov
+{	margin:0px;
+	font-size:25px;
+	margin-left:6px;
+	
+	
+}
+.tlacidko
+{
+	float:left;
+	border:solid 2px white;
+	border-radius: 50%;
+	padding:8px;
+	text-decoration:none;
+	color:white;
+	
+}
+.tlacidko:hover 
+{
+	background-color:#780f06;
+}
+.nadpis_krnov a
+{
+	text-decoration:none;
+	color:white;
+}
+.nadpis_krnov a:hover
+{
+	color:#780f06;
+}
+.forum_textiky
+{
+	line-height: 20px;
+}
+.sekciadva
+{
+	margin-top:30px;
+}
+.mapa
+{
+	
+	height:300px;
+	width:300px;
+	border:solid white 2px;
+	float:right;
+	margin:20px;
+	
+}
+.zraz
+{
+	
+	
+	height:400px;
+
+}
+
+.cistic
+{
+	overflow:none;
+}
+.zraz p
+{
+	color:white;
+	margin:15px 8px;
+}
+.zraz p span
+{
+	font-weight: bold;
+}
